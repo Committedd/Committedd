@@ -1,7 +1,7 @@
 ```diff
 - 📝 Name: Committed
 + 🌎 Where I live: Brazil!
-! 🧠 Age: 14
+! 🧠 Age: 15
 #  Jogador de minecraft woowwww
 ```
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/794646596284448789/814572786798297148/unknown.png"/>
